@@ -10,10 +10,10 @@ function JobCard() {
                 <h4 className='text-sm font-normal  text-gray-500 border-l-2 pl-4 border-gray-300 w-auto '>Mangalore , India </h4>
 
             </div>
-            <div className='flex justify-between items-center mb-3'>
-                <h4 className='text-md font-semibold  text-stone-800'>$12k - $20k</h4>
+//             <div className='flex justify-between items-center mb-3'>
+//                 <h4 className='text-md font-semibold  text-stone-800'>$12k - $20k</h4>
 
-            </div>
+//             </div>
 
             
             <div className='flex items-end justify-start gap-4'>
